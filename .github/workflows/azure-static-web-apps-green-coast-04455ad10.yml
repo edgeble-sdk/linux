@@ -28,7 +28,7 @@ jobs:
           pip install myst_parser
           pip install sphinx_rtd_theme
           python -m sphinx -T -E -b html -d _build/doctrees -D langauge=en . test
-          #cp staticwebapp.config.json ./test
+          cp staticwebapp.config.json ./test
       - name: Build And Deploy
         id: builddeploy
         uses: Azure/static-web-apps-deploy@v1
