@@ -1,8 +1,11 @@
 Getting Started
 ---------------
 
-Introduction
-~~~~~~~~~~~~
+OpenAIA
+~~~~~~~
 
-Prerequisites
-~~~~~~~~~~~~~
+.. image:: /images/openaia.png 
+  :width: 800
+
+Development
+~~~~~~~~~~~~

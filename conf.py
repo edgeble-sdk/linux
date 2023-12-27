@@ -49,7 +49,7 @@ source_suffix = ['.rst', '.md']
 master_doc = 'index'
 
 # General information about the project.
-project = '6TOPS'
+project = 'Edgeble AI'
 copyright = '2023, Edgeble AI'
 author = 'Edgeble AI'
 

@@ -1,5 +1,5 @@
-OpenAIA Guide
--------------
+Hardware Enablement
+-------------------
 
 TF-A
 ~~~~

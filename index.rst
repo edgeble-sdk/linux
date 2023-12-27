@@ -1,11 +1,9 @@
-6TOPS OpenAIA Manual
-********************
+Edgeble AI Project
+******************
 .. toctree::
    :maxdepth: 2
 
    quick
-   OpenAIA
-   NCM6B
-   IO-NCM6B
-   deploy
+   he
+   update
    model
