@@ -23,6 +23,9 @@ Development
 Stack
 -----
 
+.. image:: /images/project.png
+
+
 Process
 -------
 

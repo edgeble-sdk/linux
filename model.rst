@@ -1,14 +1,6 @@
-Pre-trained Model Management
-############################
+==================
+Pre-trained Models
+==================
 
 Model API
-*********
-
-Consumer Models
-***************
-
-Industrial Models
-*****************
-
-Automotive Models
-*****************
+=========
