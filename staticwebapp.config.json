@@ -2,13 +2,13 @@
     "routes": [
       {
         "route": "/*",
-        "allowedRoles": ["authenticated"]
+        "allowedRoles": ["contributor"]
       }
     ],
     "responseOverrides": {
       "401": {
-        "statusCode": 302,
-        "redirect": "/.auth/login/aad"
+        "redirect": "/.auth/login/github?post_login_redirect_uri=.referrer",
+        "statusCode": 302
       }
     }
   }
