@@ -5,7 +5,7 @@ Getting Started
 OpenAIA
 ======
 
-.. image:: /images/openaia.png
+.. image:: /images/openaia-v1.png
 
 - *Neural Compute Modules:* NCM's are Compute or System On Modules (COM/SOM) built on top of High Performace, Ultra Vision AI Accelerators with on-module WiFi and Camera accessing for Edge AI-enabled solutions.
 
@@ -23,7 +23,7 @@ Development
 Stack
 -----
 
-.. image:: /images/project.png
+.. image:: /images/project-v1.png
 
 
 Process
