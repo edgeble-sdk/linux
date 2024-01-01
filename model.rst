@@ -5,4 +5,4 @@ Pre-trained Models
 uTrain
 ======
 
-.. image:: /images/utrain-v1.png
+.. image:: /images/model/utrain-v1.png

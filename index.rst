@@ -1,5 +1,5 @@
-Edgeble AI Project
-******************
+Edgeble AI Manual
+*****************
 .. toctree::
    :maxdepth: 2
 

@@ -13,9 +13,9 @@ OpenAIA
 
 - *GPU/VPU/NPU:* Set of Open Source and closed acceleration tools for accessing Video, Graphics and Neural models to the user-space.
 
-- *Pre-trained Model:* State-of-the-art pre-trained model management tools that delivers single API to access user-defined models. Single API has a built-in model conversion (NPU-based models to user-defined models) and optimization algorithms.
+- *Pre-trained Model:* State-of-the-art pre-trained model management tools that delivers single API to access user-defined models. uTrain has a built-in model conversion (NPU-based models to user-defined models) and optimization algorithms.
 
-- *Update/Fleet:* Robust, Fast, Fail-safe secure deployment tools that are used to delover Continous Intigration and Delivery (CI/CD) to the NCM's via DevOps loop.
+- *Update/Fleet:* Robust, Fast, Fail-safe secure deployment tools that are used to deliver Continous Intigration and Delivery (CI/CD) to the NCM's via DevOps loop for pre-trained and re-trained models from uTrain.
 
 Development
 ==========
