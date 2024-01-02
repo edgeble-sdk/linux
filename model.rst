@@ -1,8 +1,8 @@
+.. _link_utrain:
+
 ==================
 Pre-trained Models
 ==================
-
-.. _link_utrain:
 
 uTrain
 ======

@@ -1,8 +1,8 @@
+.. _link_update:
+
 ============
 Model Update
 ============
-
-.. _link_update:
 
 Update Pipeline
 ===============

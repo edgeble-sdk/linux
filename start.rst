@@ -9,7 +9,7 @@ OpenAIA
 
 - *Neural Compute Modules:* NCM's are Compute or System On Modules (COM/SOM) built on top of High Performace, Ultra Vision AI Accelerators with on-module WiFi and Camera accessing for Edge AI-enabled solutions. See :ref:`link_ncm`
 
-- *Open Source BSP:* Board Supported Packages delivers Boot firmware and Linux Kernel in the form Debian distribution via Debos and Embedded Rootfilesystems via Yocto/OE layers.
+- *Open Source BSP:* Board Supported Packages delivers Boot firmware and Linux Kernel in the form Debian distribution via Debos and Embedded Rootfilesystems via Yocto/OE layers. See :ref:`link_bsp`.
 
 - *GPU/VPU:* Set of Open Source and closed acceleration tools for accessing Video, Graphics to the user-space.
 
