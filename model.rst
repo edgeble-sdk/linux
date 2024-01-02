@@ -9,6 +9,12 @@ uTrain
 
 .. image:: /images/model/utrain-v1.png
 
+- Model builder: Build the model, unless if the specific use-case does not have a default models. 
+- Model Conversion: Convert the trained model into an RKNN format model.
+- Model Optimisation: Optimized way of RKNN trained model.
+
+Note: RKNN format model is what RKNPU understandable model format.
+
 Reference
 =========
 
