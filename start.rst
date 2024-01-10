@@ -29,5 +29,10 @@ Stack
 Process
 -------
 
+Milestones
+----------
+
+.. image:: /images/milestone-v1.png
+
 Status
 ------
