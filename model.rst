@@ -16,7 +16,7 @@ uTrain
 Note: RKNN format model is what RKNPU understandable model format.
 
 Reference
-=========
+---------
 
 - `rknpu2 <https://github.com/rockchip-linux/rknpu2>`_
 - `rknn-toolkit2 <https://github.com/rockchip-linux/rknn-toolkit2>`_
