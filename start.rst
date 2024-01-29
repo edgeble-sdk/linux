@@ -36,3 +36,12 @@ Milestones
 
 Status
 ------
+
+
+Rules
+-----
+
+- Rule 1: Repo must clone with ssh not https
+- Rule 2: Upload your ssh public key in your github settings
+- Rule 3: Send only Github PR for review, inter-course repo sharing won't accept.
+- Rule 4: Default edgeble dockers are private so access them via token. See :ref:`link_token`
