@@ -15,6 +15,27 @@ uTrain
 
 Note: RKNN format model is what RKNPU understandable model format.
 
+Conversion
+==========
+
+Deployment
+----------
+
+Status
+------
+
++-------------------+-----------+-------+---------+
+|      Function     |   Model   | Image |  Stream |
++-------------------+-----------+-------+---------+
+| Object Detection  |   Yolov5  |  OK   |   WIP   |
++-------------------+-----------+-------+---------+
+| Weld Character    |  3rdparty |  WIP  |         |
++-------------------+-----------+-------+---------+
+| Plant Character   |           |       |         |
++-------------------+-----------+-------+---------+
+| Anomaly Detection |           |       |         |
++-------------------+-----------+-------+---------+
+
 Reference
 ---------
 
