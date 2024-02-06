@@ -34,6 +34,16 @@ Milestones
 
 .. image:: /images/milestone-v1.png
 
+
+- Jan, 2024
+
+  ::
+
+     Date: 31st Jan, 2024
+     BSP: Busy on Amarula work
+     Model: Lack of commitment.
+     Update: Basic update works, but model update has to test
+
 Status
 ------
 
