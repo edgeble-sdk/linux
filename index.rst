@@ -5,6 +5,7 @@ Edgeble AI Manual
 
    start
    tops
+   ncm6b-sdk-6-1
    bsp
    model
    update
