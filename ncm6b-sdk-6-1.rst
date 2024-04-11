@@ -35,6 +35,44 @@ Build
 Program
 -------
 
+- Connect board Debug port to Host USB with minicom baudrate of 1500000 8N1
+
+- Put the board in MaskRoM
+
+  Option 1:
+  ::
+
+        Press and hold 'Recovery button' on Carrier
+        Turn-On Board
+
+  Option 2: (If Option 1 won't work)
+  ::
+
+        Press and hold 'BOOT button' on SOM
+        Turn-On Board
+
+- Check OTG
+  ::
+
+        Connect one end of Type-A port to upper USB-3.0 blue port
+        Connect other end of Type-A port to host pc
+        # lsusb | grep Rockchip
+        Bus 003 Device 008: ID 2207:350b Fuzhou Rockchip Electronics Company
+
+- Program eMMC
+  ::
+
+        export PATH=/sdk-6.1/tools/linux/Linux_Upgrade_Tool/Linux_Upgrade_Tool:$PATH
+        upgrade_tool ul rockdev/MiniLoaderAll.bin -noreset
+        upgrade_tool di -p rockdev/parameter.txt
+        upgrade_tool di -u rockdev/uboot.img
+        upgrade_tool di -misc rockdev/misc.img
+        upgrade_tool di -b rockdev/boot.img
+        upgrade_tool di -recovery rockdev/recovery.img
+        upgrade_tool di -oem rockdev/oem.img
+        upgrade_tool di -rootfs rockdev/rootfs.img
+        upgrade_tool di -userdata rockdev/userdata.img
+        upgrade_tool rd
 
 Reference
 ---------
